@@ -1,0 +1,4 @@
+Id,Name,Tran_Date,Tran_Amt,Tran_Code,Tran_Desc,SIC_Code
+104,Pete,2/5/2019,34.5,600,Holiday,354
+104,Pete,2/4/2019,45.6,600,Airlines,233
+105,Paul,2/5/2019,566,600,Restaurant,434
