@@ -1,8 +1,11 @@
 # Python-BasicOperations-and-DataAnalysis
 
-##This repository contains two Notebooks
+![medium](https://user-images.githubusercontent.com/65406908/88860165-2e154900-d1c9-11ea-8f19-3bb591a0e25b.png)
 
-# Notebook 1: "Python-BasicOperations.ipynb"- Contains Basic Operations with Python Dataframes. This notebook contains the below topics
+
+## This repository contains two Notebooks
+
+# Notebook 1: "Python-BasicOperations.ipynb"- Contains Basic Operations with Python Dataframes. This notebook contains the below topics.The datasets(1000_Sales_Records.csv) used for this notebook is placed in the same repository. I have pulled this dataset randomly from the Internet
 
 ## Topic 1: Basic Dataframe Reading/Operations
 ###### Code Block 1.1: Reading the dataframe
@@ -54,7 +57,7 @@
 ## Topic 5: Plotting
 ###### 5.1 Plotting a horizontal bar/histogram
 
-# Notebook 2: "Python-Data Combining.ipynb"- Contains various techniques on combining/merging the dataframes. This notebook contains the below topics
+# Notebook 2: "Python-Data Combining.ipynb"- Contains various techniques on combining/merging the dataframes. This notebook contains the below topics. The datasets (Trans1.csv, Trans2.csv, Transactions.csv, Info.csv) used in this notebook were placed in the same repository. I have created all these datasets with some random data on my own to work on the operations
 
 
 # Topic 1: Data Combine
